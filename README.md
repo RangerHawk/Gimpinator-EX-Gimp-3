@@ -17,7 +17,8 @@ It offers modular enhancements, symbolic toggles, and restoration tools that ali
 ## 📁 Documentation
 
 Full activation guide and onboarding scroll available here:  
-**[docs/Gimpinator-Activation-Guide.md](docs/Gimpinator-Activation-Guide.md)**
+**[Gimpinator Activation Guide](https://github.com/RangerHawk/rangerhawk.github.io/blob/main/docs/Gimpinator-Activation-Guide.md)**
+
 
 ## 🛡️ License
 
